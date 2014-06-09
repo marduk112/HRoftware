@@ -9558,13 +9558,14 @@
 						ordinal    	2
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "editingexistingemployeeActionPerformed(Logical View:: Event)"
+					    (object Message "void editingexistingemployeeActionPerformed(Event evt)"
 						quid       	"5378AD3302B3"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
 						dir        	"FromClientToSupplier"
 						sequence   	"4"
 						ordinal    	3
+						Operation  	"void editingexistingemployeeActionPerformed(Logical View:: Event)"
 						quidu      	"53943F5A03C1"
 						creation   	FALSE))))
 				class      	"Use Case View::Personnel"
@@ -9638,13 +9639,14 @@
 						ordinal    	2
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "editingexistingemployeeActionPerformed(Logical View:: Event)"
+					    (object Message "void editingexistingemployeeActionPerformed(Event evt)"
 						quid       	"5378AE0C038C"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
 						dir        	"FromClientToSupplier"
 						sequence   	"4"
 						ordinal    	3
+						Operation  	"void editingexistingemployeeActionPerformed(Logical View:: Event)"
 						quidu      	"53943F5A03C1"
 						creation   	FALSE)
 					    (object Message "error - no connection with the database"
@@ -10008,7 +10010,7 @@
 				origin     	(195, 708)
 				terminus   	(1361, 708)
 				ordinal    	2)
-			    (object InterMessView "editingexistingemployeeActionPerformed(Logical View:: Event)" @492
+			    (object InterMessView "void editingexistingemployeeActionPerformed(Event evt)" @492
 				location   	(3, 813)
 				font       	(object Font
 				    size       	10
@@ -10036,9 +10038,9 @@
 				    quidu      	"5378AD3302B3"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	1056
 				    justify    	0
-				    label      	"editingexistingemployeeActionPerformed(Logical View:: Event)"
+				    label      	"void editingexistingemployeeActionPerformed(Event evt)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -10414,7 +10416,7 @@
 				origin     	(195, 708)
 				terminus   	(1361, 708)
 				ordinal    	2)
-			    (object InterMessView "editingexistingemployeeActionPerformed(Logical View:: Event)" @518
+			    (object InterMessView "void editingexistingemployeeActionPerformed(Event evt)" @518
 				location   	(3, 813)
 				font       	(object Font
 				    size       	10
@@ -10442,9 +10444,9 @@
 				    quidu      	"5378AE0C038C"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	1053
 				    justify    	0
-				    label      	"editingexistingemployeeActionPerformed(Logical View:: Event)"
+				    label      	"void editingexistingemployeeActionPerformed(Event evt)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -13846,7 +13848,7 @@
 						ordinal    	1
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "AssigningemployeesActionPerformed(Logical View:: Event)"
+					    (object Message "voidAssigningemployeesActionPerformed(Logical View:: Event)"
 						quid       	"5378A14F0397"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -13926,7 +13928,7 @@
 						ordinal    	1
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "AssigningemployeesActionPerformed(Logical View:: Event)"
+					    (object Message "voidAssigningemployeesActionPerformed(Logical View:: Event)"
 						quid       	"5378A26E00C8"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -14024,7 +14026,7 @@
 						ordinal    	1
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "AssigningemployeesActionPerformed(Logical View:: Event)"
+					    (object Message "voidAssigningemployeesActionPerformed(Logical View:: Event)"
 						quid       	"5378A2AB0138"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -14363,7 +14365,7 @@
 				origin     	(267, 686)
 				terminus   	(1418, 686)
 				ordinal    	1)
-			    (object InterMessView "AssigningemployeesActionPerformed(Logical View:: Event)" @710
+			    (object InterMessView "voidAssigningemployeesActionPerformed(Logical View:: Event)" @710
 				location   	(3, 920)
 				font       	(object Font
 				    size       	10
@@ -14391,9 +14393,9 @@
 				    quidu      	"5378A14F0397"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	991
 				    justify    	0
-				    label      	"AssigningemployeesActionPerformed(Logical View:: Event)"
+				    label      	"voidAssigningemployeesActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -14778,7 +14780,7 @@
 				origin     	(267, 775)
 				terminus   	(1352, 775)
 				ordinal    	1)
-			    (object InterMessView "AssigningemployeesActionPerformed(Logical View:: Event)" @737
+			    (object InterMessView "voidAssigningemployeesActionPerformed(Logical View:: Event)" @737
 				location   	(3, 1009)
 				font       	(object Font
 				    size       	10
@@ -14806,9 +14808,9 @@
 				    quidu      	"5378A26E00C8"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	991
 				    justify    	0
-				    label      	"AssigningemployeesActionPerformed(Logical View:: Event)"
+				    label      	"voidAssigningemployeesActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -15277,7 +15279,7 @@
 				origin     	(267, 775)
 				terminus   	(1331, 775)
 				ordinal    	1)
-			    (object InterMessView "AssigningemployeesActionPerformed(Logical View:: Event)" @768
+			    (object InterMessView "voidAssigningemployeesActionPerformed(Logical View:: Event)" @768
 				location   	(3, 1009)
 				font       	(object Font
 				    size       	10
@@ -15307,7 +15309,7 @@
 				    nlines     	1
 				    max_width  	10
 				    justify    	0
-				    label      	"AssigningemployeesActionPerformed(Logical View:: Event)"
+				    label      	"voidAssigningemployeesActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -15500,7 +15502,7 @@
 					supplier   	"form"
 					quidu      	"53789B2700D7"
 					messages   	(list Messages
-					    (object Message "OptionaddingnewtrainingActionPerformed()"
+					    (object Message "voidOptionaddingnewtrainingActionPerformed()"
 						quid       	"53789B5603CE"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -15594,7 +15596,7 @@
 					supplier   	"form"
 					quidu      	"53789E0401F7"
 					messages   	(list Messages
-					    (object Message "OptionaddingnewtrainingActionPerformed()"
+					    (object Message "voidOptionaddingnewtrainingActionPerformed()"
 						quid       	"53789E0401EE"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -15706,7 +15708,7 @@
 					supplier   	"form"
 					quidu      	"53789EA80062"
 					messages   	(list Messages
-					    (object Message "OptionaddingnewtrainingActionPerformed()"
+					    (object Message "voidOptionaddingnewtrainingActionPerformed()"
 						quid       	"53789EA80058"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -16003,7 +16005,7 @@
 				    height     	90
 				    y_coord    	0
 				    Nested     	FALSE))
-			    (object InterMessView "OptionaddingnewtrainingActionPerformed()" @797
+			    (object InterMessView "voidOptionaddingnewtrainingActionPerformed()" @797
 				location   	(3, 1121)
 				font       	(object Font
 				    size       	10
@@ -16031,9 +16033,9 @@
 				    quidu      	"53789B5603CE"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	1050
 				    justify    	0
-				    label      	"OptionaddingnewtrainingActionPerformed()"
+				    label      	"voidOptionaddingnewtrainingActionPerformed()"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	1)
@@ -16507,7 +16509,7 @@
 				origin     	(282, 762)
 				terminus   	(1403, 762)
 				ordinal    	1)
-			    (object InterMessView "OptionaddingnewtrainingActionPerformed()" @829
+			    (object InterMessView "voidOptionaddingnewtrainingActionPerformed()" @829
 				location   	(3, 1122)
 				font       	(object Font
 				    size       	10
@@ -16537,7 +16539,7 @@
 				    nlines     	1
 				    max_width  	10
 				    justify    	0
-				    label      	"OptionaddingnewtrainingActionPerformed()"
+				    label      	"voidOptionaddingnewtrainingActionPerformed()"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -17053,7 +17055,7 @@
 				origin     	(282, 743)
 				terminus   	(1403, 743)
 				ordinal    	1)
-			    (object InterMessView "OptionaddingnewtrainingActionPerformed()" @863
+			    (object InterMessView "voidOptionaddingnewtrainingActionPerformed()" @863
 				location   	(3, 1103)
 				font       	(object Font
 				    size       	10
@@ -17083,7 +17085,7 @@
 				    nlines     	1
 				    max_width  	10
 				    justify    	0
-				    label      	"OptionaddingnewtrainingActionPerformed()"
+				    label      	"voidOptionaddingnewtrainingActionPerformed()"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -18561,7 +18563,7 @@
 						ordinal    	1
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "CurrentemployeesreportsActionPerformed(Logical View:: Event)"
+					    (object Message "voidCurrentemployeesreportsActionPerformed(Logical View:: Event)"
 						quid       	"5378AB29024C"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -18632,7 +18634,7 @@
 						ordinal    	1
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "CurrentemployeesreportsActionPerformed(Logical View:: Event)"
+					    (object Message "voidCurrentemployeesreportsActionPerformed(Logical View:: Event)"
 						quid       	"5378AC28028D"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -18932,7 +18934,7 @@
 				origin     	(213, 498)
 				terminus   	(1421, 498)
 				ordinal    	1)
-			    (object InterMessView "CurrentemployeesreportsActionPerformed(Logical View:: Event)" @955
+			    (object InterMessView "voidCurrentemployeesreportsActionPerformed(Logical View:: Event)" @955
 				location   	(3, 639)
 				font       	(object Font
 				    size       	10
@@ -18960,9 +18962,9 @@
 				    quidu      	"5378AB29024C"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	1260
 				    justify    	0
-				    label      	"CurrentemployeesreportsActionPerformed(Logical View:: Event)"
+				    label      	"voidCurrentemployeesreportsActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -19268,7 +19270,7 @@
 				origin     	(213, 498)
 				terminus   	(1421, 498)
 				ordinal    	1)
-			    (object InterMessView "CurrentemployeesreportsActionPerformed(Logical View:: Event)" @975
+			    (object InterMessView "voidCurrentemployeesreportsActionPerformed(Logical View:: Event)" @975
 				location   	(3, 639)
 				font       	(object Font
 				    size       	10
@@ -19298,7 +19300,7 @@
 				    nlines     	1
 				    max_width  	10
 				    justify    	0
-				    label      	"CurrentemployeesreportsActionPerformed(Logical View:: Event)"
+				    label      	"voidCurrentemployeesreportsActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -26593,7 +26595,7 @@
 						ordinal    	5
 						quidu      	"53831ADC001D"
 						creation   	FALSE))))
-				class      	"Logical View::Institutions::Legal_Acts"
+				class      	"Logical View::Legal_Acts"
 				quidu      	"537CBC3A0210"
 				persistence 	"Transient"
 				creationObj 	TRUE
@@ -26762,7 +26764,7 @@
 						ordinal    	6
 						quidu      	"000000000000"
 						creation   	FALSE))))
-				class      	"Logical View::Institutions::Legal_Acts"
+				class      	"Logical View::Legal_Acts"
 				quidu      	"537CBC3A0210"
 				persistence 	"Transient"
 				creationObj 	FALSE
@@ -26909,7 +26911,7 @@
 						ordinal    	6
 						quidu      	"000000000000"
 						creation   	FALSE))))
-				class      	"Logical View::Institutions::Legal_Acts"
+				class      	"Logical View::Legal_Acts"
 				quidu      	"537CBC3A0210"
 				persistence 	"Transient"
 				creationObj 	FALSE
@@ -26929,7 +26931,7 @@
 			zoom       	100
 			max_height 	28350
 			max_width  	21600
-			origin_x   	3619
+			origin_x   	3620
 			origin_y   	0
 			items      	(list diagram_item_list
 			    (object InterObjView "$UNNAMED$36" @1335
@@ -27411,7 +27413,7 @@
 				    quidu      	"537CC5350271"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	1153
+				    max_width  	10
 				    justify    	0
 				    label      	"voidSaves_data_in_database(Logical View::java::lang::String)"
 				    pctDist    	0.500000
@@ -38761,7 +38763,7 @@
 				    quidu      	"5383229B0388"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	1137
+				    max_width  	10
 				    justify    	0
 				    label      	"voidSaves_data_in_database(Logical View::java::lang::String)"
 				    pctDist    	0.500000
@@ -40525,7 +40527,7 @@
 						ordinal    	2
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "ContributioninprojectActionPerformed(Logical View:: Event)"
+					    (object Message "voidContributioninprojectActionPerformed(Logical View:: Event)"
 						quid       	"5378A3F1023C"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -40625,7 +40627,7 @@
 						ordinal    	2
 						quidu      	"000000000000"
 						creation   	FALSE)
-					    (object Message "ContributioninprojectActionPerformed(Logical View:: Event)"
+					    (object Message "voidContributioninprojectActionPerformed(Logical View:: Event)"
 						quid       	"5378AA3402E2"
 						frequency  	"Aperiodic"
 						synchronization 	"ProcedureCall"
@@ -41011,7 +41013,7 @@
 				origin     	(270, 726)
 				terminus   	(1508, 726)
 				ordinal    	2)
-			    (object InterMessView "ContributioninprojectActionPerformed(Logical View:: Event)" @2046
+			    (object InterMessView "voidContributioninprojectActionPerformed(Logical View:: Event)" @2046
 				location   	(3, 873)
 				font       	(object Font
 				    size       	10
@@ -41039,9 +41041,9 @@
 				    quidu      	"5378A3F1023C"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	982
 				    justify    	0
-				    label      	"ContributioninprojectActionPerformed(Logical View:: Event)"
+				    label      	"voidContributioninprojectActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -41518,7 +41520,7 @@
 				origin     	(270, 797)
 				terminus   	(1508, 797)
 				ordinal    	2)
-			    (object InterMessView "ContributioninprojectActionPerformed(Logical View:: Event)" @2077
+			    (object InterMessView "voidContributioninprojectActionPerformed(Logical View:: Event)" @2077
 				location   	(3, 944)
 				font       	(object Font
 				    size       	10
@@ -41546,9 +41548,9 @@
 				    quidu      	"5378AA3402E2"
 				    anchor_loc 	1
 				    nlines     	1
-				    max_width  	10
+				    max_width  	982
 				    justify    	0
-				    label      	"ContributioninprojectActionPerformed(Logical View:: Event)"
+				    label      	"voidContributioninprojectActionPerformed(Logical View:: Event)"
 				    pctDist    	0.500000
 				    height     	45
 				    orientation 	0)
@@ -43509,7 +43511,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (430, 1049)
-				    (511, 1245))
+				    (512, 1246))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$50" @2155
 			location   	(736, 1155)
@@ -43537,7 +43539,7 @@
 				supplier   	@2146
 				vertices   	(list Points
 				    (736, 1155)
-				    (868, 1039))
+				    (869, 1039))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$52" @2157
 				Parent_View 	@2155
@@ -43549,7 +43551,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (736, 1155)
-				    (603, 1272))
+				    (603, 1271))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$53" @2158
 			location   	(550, 904)
@@ -43577,7 +43579,7 @@
 				supplier   	@2147
 				vertices   	(list Points
 				    (550, 904)
-				    (554, 565))
+				    (555, 565))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$55" @2160
 				Parent_View 	@2158
@@ -43589,7 +43591,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (550, 904)
-				    (546, 1246))
+				    (546, 1244))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$56" @2161
 			location   	(642, 1020)
@@ -43617,7 +43619,7 @@
 				supplier   	@2148
 				vertices   	(list Points
 				    (642, 1020)
-				    (711, 796))
+				    (715, 796))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$58" @2163
 				Parent_View 	@2161
@@ -43629,7 +43631,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (642, 1020)
-				    (568, 1246))
+				    (569, 1244))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$59" @2164
 			location   	(827, 922)
@@ -43657,7 +43659,7 @@
 				supplier   	@2149
 				vertices   	(list Points
 				    (827, 922)
-				    (1006, 676))
+				    (1056, 598))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$61" @2166
 				Parent_View 	@2164
@@ -43669,7 +43671,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (827, 922)
-				    (598, 1245))
+				    (599, 1246))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$62" @2167
 			location   	(395, 1313)
@@ -43697,7 +43699,7 @@
 				supplier   	@2150
 				vertices   	(list Points
 				    (395, 1313)
-				    (303, 1305))
+				    (303, 1307))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$64" @2169
 				Parent_View 	@2167
@@ -43709,7 +43711,7 @@
 				supplier   	@2151
 				vertices   	(list Points
 				    (395, 1313)
-				    (486, 1319))
+				    (487, 1319))
 				line_style 	0)))
 		    (object UseCaseView "Use Case View::current employees" @2170
 			location   	(2751, 420)
@@ -44062,7 +44064,7 @@
 				supplier   	@2170
 				vertices   	(list Points
 				    (2429, 648)
-				    (2520, 583))
+				    (2576, 545))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$70" @2185
 				Parent_View 	@2183
@@ -44074,7 +44076,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2429, 648)
-				    (2281, 752))
+				    (2283, 752))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$71" @2186
 			location   	(2701, 619)
@@ -44102,7 +44104,7 @@
 				supplier   	@2171
 				vertices   	(list Points
 				    (2701, 619)
-				    (2877, 552))
+				    (3086, 473))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$73" @2188
 				Parent_View 	@2186
@@ -44142,7 +44144,7 @@
 				supplier   	@2172
 				vertices   	(list Points
 				    (2471, 747)
-				    (2626, 709))
+				    (2626, 712))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$76" @2191
 				Parent_View 	@2189
@@ -44182,7 +44184,7 @@
 				supplier   	@2173
 				vertices   	(list Points
 				    (2697, 746)
-				    (3077, 700))
+				    (3078, 699))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$79" @2194
 				Parent_View 	@2192
@@ -44222,7 +44224,7 @@
 				supplier   	@2174
 				vertices   	(list Points
 				    (2682, 872)
-				    (3049, 924))
+				    (3048, 923))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$82" @2197
 				Parent_View 	@2195
@@ -44262,7 +44264,7 @@
 				supplier   	@2175
 				vertices   	(list Points
 				    (2460, 876)
-				    (2604, 913))
+				    (2605, 915))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$85" @2200
 				Parent_View 	@2198
@@ -44274,7 +44276,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2460, 876)
-				    (2316, 835))
+				    (2316, 838))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$86" @2201
 			location   	(2706, 1012)
@@ -44302,7 +44304,7 @@
 				supplier   	@2176
 				vertices   	(list Points
 				    (2706, 1012)
-				    (3056, 1154))
+				    (3058, 1157))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$88" @2203
 				Parent_View 	@2201
@@ -44314,7 +44316,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2706, 1012)
-				    (2528, 938))
+				    (2355, 867))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$89" @2204
 			location   	(2507, 1041)
@@ -44342,7 +44344,7 @@
 				supplier   	@2177
 				vertices   	(list Points
 				    (2507, 1041)
-				    (2658, 1159))
+				    (2659, 1160))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$91" @2206
 				Parent_View 	@2204
@@ -44354,7 +44356,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2507, 1041)
-				    (2419, 973))
+				    (2355, 922))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$92" @2207
 			location   	(2717, 1154)
@@ -44394,7 +44396,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2717, 1154)
-				    (2451, 973))
+				    (2355, 908))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$95" @2210
 			location   	(2503, 1179)
@@ -44422,7 +44424,7 @@
 				supplier   	@2179
 				vertices   	(list Points
 				    (2503, 1179)
-				    (2667, 1384))
+				    (2669, 1385))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$97" @2212
 				Parent_View 	@2210
@@ -44637,7 +44639,7 @@
 				supplier   	@2180
 				vertices   	(list Points
 				    (1647, 2452)
-				    (1605, 2556))
+				    (1628, 2497))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$121" @2222
 				Parent_View 	@2220
@@ -44649,7 +44651,7 @@
 				supplier   	@2219
 				vertices   	(list Points
 				    (1647, 2452)
-				    (1746, 2244))
+				    (1667, 2407))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$122" @2223
 			location   	(1941, 2455)
@@ -44677,7 +44679,7 @@
 				supplier   	@2181
 				vertices   	(list Points
 				    (1941, 2455)
-				    (1991, 2510))
+				    (1992, 2510))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$124" @2225
 				Parent_View 	@2223
@@ -44689,7 +44691,7 @@
 				supplier   	@2219
 				vertices   	(list Points
 				    (1941, 2455)
-				    (1896, 2407))
+				    (1891, 2400))
 				line_style 	0)))
 		    (object UseCaseView "Use Case View::assigning employees to departments" @2226
 			location   	(783, 1629)
@@ -44807,7 +44809,7 @@
 				supplier   	@2182
 				vertices   	(list Points
 				    (2087, 678)
-				    (2153, 751))
+				    (2154, 752))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$67" @2232
 				Parent_View 	@2230
@@ -44819,7 +44821,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (2087, 678)
-				    (2021, 606))
+				    (2021, 604))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$98" @2233
 			location   	(1692, 1063)
@@ -44847,7 +44849,7 @@
 				supplier   	@2213
 				vertices   	(list Points
 				    (1692, 1063)
-				    (1529, 1431))
+				    (1528, 1432))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$100" @2235
 				Parent_View 	@2233
@@ -44859,7 +44861,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (1692, 1063)
-				    (1855, 695))
+				    (1857, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$101" @2236
 			location   	(1982, 1050)
@@ -44887,7 +44889,7 @@
 				supplier   	@2214
 				vertices   	(list Points
 				    (1982, 1050)
-				    (2015, 1405))
+				    (2016, 1406))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$103" @2238
 				Parent_View 	@2236
@@ -44899,7 +44901,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (1982, 1050)
-				    (1948, 695))
+				    (1949, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$104" @2239
 			location   	(1722, 1272)
@@ -44927,7 +44929,7 @@
 				supplier   	@2215
 				vertices   	(list Points
 				    (1722, 1272)
-				    (1560, 1850))
+				    (1562, 1849))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$106" @2241
 				Parent_View 	@2239
@@ -44939,7 +44941,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (1722, 1272)
-				    (1881, 695))
+				    (1883, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$107" @2242
 			location   	(1928, 1269)
@@ -44967,7 +44969,7 @@
 				supplier   	@2216
 				vertices   	(list Points
 				    (1928, 1269)
-				    (1926, 1844))
+				    (1926, 1843))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$109" @2244
 				Parent_View 	@2242
@@ -45007,7 +45009,7 @@
 				supplier   	@2217
 				vertices   	(list Points
 				    (2282, 1282)
-				    (2547, 1871))
+				    (2549, 1869))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$112" @2247
 				Parent_View 	@2245
@@ -45019,7 +45021,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (2282, 1282)
-				    (2017, 695))
+				    (2016, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$113" @2248
 			location   	(2198, 1422)
@@ -45047,7 +45049,7 @@
 				supplier   	@2218
 				vertices   	(list Points
 				    (2198, 1422)
-				    (2411, 2149))
+				    (2410, 2150))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$115" @2250
 				Parent_View 	@2248
@@ -45059,7 +45061,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (2198, 1422)
-				    (1986, 695))
+				    (1987, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$116" @2251
 			location   	(1831, 1440)
@@ -45087,7 +45089,7 @@
 				supplier   	@2219
 				vertices   	(list Points
 				    (1831, 1440)
-				    (1749, 2186))
+				    (1750, 2186))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$118" @2253
 				Parent_View 	@2251
@@ -45127,7 +45129,7 @@
 				supplier   	@2226
 				vertices   	(list Points
 				    (1343, 1081)
-				    (837, 1571))
+				    (838, 1570))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$127" @2256
 				Parent_View 	@2254
@@ -45139,7 +45141,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (1343, 1081)
-				    (1848, 595))
+				    (1848, 593))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$128" @2257
 			location   	(1293, 1258)
@@ -45167,7 +45169,7 @@
 				supplier   	@2227
 				vertices   	(list Points
 				    (1293, 1258)
-				    (742, 1904))
+				    (739, 1904))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$130" @2259
 				Parent_View 	@2257
@@ -45307,7 +45309,7 @@
 				supplier   	@2263
 				vertices   	(list Points
 				    (1477, 1425)
-				    (1111, 2155))
+				    (1110, 2156))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$133" @2266
 				Parent_View 	@2264
@@ -45319,7 +45321,7 @@
 				supplier   	@2228
 				vertices   	(list Points
 				    (1477, 1425)
-				    (1848, 686))
+				    (1845, 695))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$134" @2267
 			location   	(830, 2329)
@@ -45347,7 +45349,7 @@
 				supplier   	@2260
 				vertices   	(list Points
 				    (830, 2329)
-				    (732, 2371))
+				    (732, 2373))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$136" @2269
 				Parent_View 	@2267
@@ -45359,7 +45361,7 @@
 				supplier   	@2263
 				vertices   	(list Points
 				    (830, 2329)
-				    (1086, 2214))
+				    (929, 2285))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$137" @2270
 			location   	(1012, 2325)
@@ -45387,7 +45389,7 @@
 				supplier   	@2261
 				vertices   	(list Points
 				    (1012, 2325)
-				    (974, 2377))
+				    (939, 2436))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$139" @2272
 				Parent_View 	@2270
@@ -45427,7 +45429,7 @@
 				supplier   	@2262
 				vertices   	(list Points
 				    (1174, 2332)
-				    (1218, 2393))
+				    (1263, 2451))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$142" @2275
 				Parent_View 	@2273
@@ -45448,6 +45450,23 @@
 	subsystem  	"Component View"
 	quidu      	"535A96E701CC"
 	logical_models 	(list unit_reference_list
+	    (object Class "Legal_Acts"
+		attributes 	(list Attribute_Set)
+		quid       	"537CBC3A0210"
+		operations 	(list Operations
+		    (object Operation "Legal_Acts"
+			attributes 	(list Attribute_Set
+			    (object Attribute
+				tool       	"Java"
+				name       	"GenerateFullyQualifiedThrows"
+				value      	""))
+			quid       	"53943C9F022B"
+			concurrency 	"Sequential"
+			opExportControl 	"Public"
+			uid        	0))
+		module     	"Component View::Legal_Acts"
+		quidu      	"539439550061"
+		language   	"Java")
 	    (object Class "Forms_Generating"
 		attributes 	(list Attribute_Set
 		    (object Attribute
@@ -45503,11 +45522,6 @@
 			name       	"ConstructorIs"
 			value      	("Ctor_Set" 62)))
 		quid       	"537DF6250166"
-		superclasses 	(list inheritance_relationship_list
-		    (object Inheritance_Relationship
-			quid       	"5395938D012D"
-			supplier   	"Logical View::javax.swing.JFrame"
-			quidu      	"539437B2011F"))
 		operations 	(list Operations
 		    (object Operation "Forms_Generating"
 			attributes 	(list Attribute_Set
@@ -45518,65 +45532,7 @@
 			quid       	"53943C9F01CA"
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "SendForm"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"SendForm")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"539593090129"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
 			uid        	0))
-		class_attributes 	(list class_attribute_list
-		    (object ClassAttribute "JTextFieldCity"
-			quid       	"539592F903A0")
-		    (object ClassAttribute "JTextFieldStreet"
-			quid       	"539593200202")
-		    (object ClassAttribute "JTextFieldNr"
-			quid       	"5395932B0262")
-		    (object ClassAttribute "JTextFieldZip_code"
-			quid       	"539593340062")
-		    (object ClassAttribute "JTextFieldName_of_institution"
-			quid       	"5395935F0043"))
 		module     	"Component View::Forms_Generating"
 		quidu      	"539439550055"
 		language   	"Java")
@@ -45645,7 +45601,7 @@
 			supplier   	"Logical View::javax.swing.JFrame"
 			quidu      	"539437B2011F"))
 		operations 	(list Operations
-		    (object Operation "OptionaddingnewtrainingActionPerformed"
+		    (object Operation "voidOptionaddingnewtrainingActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45658,7 +45614,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "ApplyingforholidayActionPerformed"
+		    (object Operation "voidApplyingforholidayActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45671,7 +45627,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "AssigningemployeesActionPerformed"
+		    (object Operation "voidAssigningemployeesActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45727,7 +45683,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "ContributioninprojectActionPerformed"
+		    (object Operation "voidContributioninprojectActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45830,7 +45786,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "CurrentemployeesreportsActionPerformed"
+		    (object Operation "voidCurrentemployeesreportsActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45886,7 +45842,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "DeletionOfExistingEmployeeDataActionPerformed"
+		    (object Operation "void DeletionOfExistingEmployeeDataActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45942,7 +45898,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "editingexistingemployeeActionPerformed"
+		    (object Operation "void editingexistingemployeeActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -45998,7 +45954,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "editingnewtrainingActionPerformed"
+		    (object Operation "void editingnewtrainingActionPerformed"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -46054,7 +46010,7 @@
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
 			uid        	0)
-		    (object Operation "enteringnewemployeedata"
+		    (object Operation "void enteringnewemployeedata"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -46109,573 +46065,9 @@
 			result     	"void"
 			concurrency 	"Sequential"
 			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "GUSActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"void GUSActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"539584910189"
-			parameters 	(list Parameters
-			    (object Parameter "vc"
-				attributes 	(list Attribute_Set
-				    (object Attribute
-					tool       	"Java"
-					name       	"IsFinal"
-					value      	"false"))
-				quid       	"539585A5031F"
-				type       	"Logical View:: Event"))
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "HiddenlaborcostsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"void HiddenlaborcostsActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"539584F70272"
-			parameters 	(list Parameters
-			    (object Parameter "vc"
-				attributes 	(list Attribute_Set
-				    (object Attribute
-					tool       	"Java"
-					name       	"IsFinal"
-					value      	"false"))
-				quid       	"539585B101D2"
-				type       	"Logical View:: Event"))
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "LegalactsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"539585D902B5"
-			parameters 	(list Parameters
-			    (object Parameter "Event vc"
-				quid       	"5395860503D4"))
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "LoginActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"5395867B0173"
-			parameters 	(list Parameters
-			    (object Parameter "Event vc"
-				quid       	"539586A00379"))
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "LogoutActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"opname")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958C630077"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "MostvaluableprofessionalsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"MostvaluableprofessionalsActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958CA001F7"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "MostvaluableactivitiesActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"MostvaluableactivitiesActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958CC003C6"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ParticipationincompanygainsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"Participationincompanygains")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958D3E009B"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ProductivitymeasurementsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"ProductivitymeasurementsActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958D93009F"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ProjectviewsActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"ProjectviewsActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958DC0022B"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "QualificationstreeActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"QualificationstreeActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958E17029A"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ReportingleftofworkspaceActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"OpFormerName"
-				value      	"ReportingleftofworkspaceActionPerformed")
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Static"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Abstract"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Native"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Synchronized"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Strictfp"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedArgument"
-				value      	"")
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedReturn"
-				value      	FALSE))
-			quid       	"53958EC50194"
-			result     	"void"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ReportingofcompensationActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"53958EF20372"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ReportingthepresenceatworkplaceActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"53958F18025B"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "USActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"53958F290156"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "ZUSActionPerformed"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"53958F360372"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0)
-		    (object Operation "Form"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"539594EA02CD"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
 			uid        	0))
 		class_attributes 	(list class_attribute_list
-		    (object ClassAttribute "DatabaseDatabase"
+		    (object ClassAttribute "Database database"
 			attributes 	(list Attribute_Set
 			    (object Attribute
 				tool       	"Java"
@@ -46706,144 +46098,7 @@
 				name       	"Read/Write"
 				value      	("Read/Write_Set" 81)))
 			quid       	"53943437034B"
-			type       	"Logical View::java::lang::Database")
-		    (object ClassAttribute "JButtonOptionaddingnewtraining"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Volatile"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Transient"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"IndividualChangeMgt"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedTypes"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"PropertyType"
-				value      	("BeanProperty_Set" 71))
-			    (object Attribute
-				tool       	"Java"
-				name       	"Read/Write"
-				value      	("Read/Write_Set" 81)))
-			quid       	"5395875E02EA")
-		    (object ClassAttribute "JButtonApplyingforholiday"
-			quid       	"539587F90119")
-		    (object ClassAttribute "JButtonAssigningemployees"
-			quid       	"539588140342")
-		    (object ClassAttribute "JButtonCurrentemployeesreports"
-			quid       	"539588270190")
-		    (object ClassAttribute "JButtonContributioninproject"
-			quid       	"53958869039F")
-		    (object ClassAttribute "JButtonDeletionOfExistingEmployeeData"
-			quid       	"5395888E0211")
-		    (object ClassAttribute "JButtonEditingexistingemployee"
-			quid       	"539588B5009F")
-		    (object ClassAttribute "JButtonEditingnewtraining"
-			quid       	"539588CC028F")
-		    (object ClassAttribute "JButtonEnteringnewemployeedata"
-			quid       	"539588DF0051")
-		    (object ClassAttribute "JButtonGUS"
-			quid       	"539588F7002C")
-		    (object ClassAttribute "JButtonHiddenlaborcosts"
-			quid       	"539589040122")
-		    (object ClassAttribute "JButtonLegalacts"
-			quid       	"5395891C0032")
-		    (object ClassAttribute "JButtonLogin"
-			quid       	"53958929005C")
-		    (object ClassAttribute "JButtonLogout"
-			quid       	"53958CEB03AF")
-		    (object ClassAttribute "JButtonMostvaluableprofessionals"
-			quid       	"53958D02034C")
-		    (object ClassAttribute "JButtonMostvaluableactivities"
-			quid       	"53958D15034D")
-		    (object ClassAttribute "JButtonParticipationincompanygains"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Volatile"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Transient"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"IndividualChangeMgt"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedTypes"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"PropertyType"
-				value      	("BeanProperty_Set" 71))
-			    (object Attribute
-				tool       	"Java"
-				name       	"Read/Write"
-				value      	("Read/Write_Set" 81)))
-			quid       	"53958D6A0238")
-		    (object ClassAttribute "JButtonProjectviews"
-			quid       	"53958DE5001C")
-		    (object ClassAttribute "JButtonProductivitymeasurements"
-			quid       	"53958F4C02F2")
-		    (object ClassAttribute "JButtonQualificationstree"
-			quid       	"53958F80029F")
-		    (object ClassAttribute "JButtonReportingleftofworkspace"
-			quid       	"53958F92007F")
-		    (object ClassAttribute "JButtonReportingofcompensation"
-			quid       	"53958FA90106")
-		    (object ClassAttribute "JButtonReportingthepresenceatworkplace"
-			quid       	"53958FBC02AC")
-		    (object ClassAttribute "JButtonUS"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"Final"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Volatile"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"Transient"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"IndividualChangeMgt"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedTypes"
-				value      	FALSE)
-			    (object Attribute
-				tool       	"Java"
-				name       	"PropertyType"
-				value      	("BeanProperty_Set" 71))
-			    (object Attribute
-				tool       	"Java"
-				name       	"Read/Write"
-				value      	("Read/Write_Set" 81)))
-			quid       	"53958FD8031C")
-		    (object ClassAttribute "JButtonZUS"
-			quid       	"53958FE702F4"))
+			type       	"Logical View::java::lang::Database"))
 		module     	"Component View::Form"
 		quidu      	"53943955004D"
 		language   	"Java")
@@ -46907,19 +46162,6 @@
 			attributes 	(list Attribute_Set)
 			quid       	"5394381100C4"
 			supplier   	"Logical View::"))
-		operations 	(list Operations
-		    (object Operation "javax.swing.JFrame"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"GenerateFullyQualifiedThrows"
-				value      	""))
-			quid       	"539594EA03E6"
-			concurrency 	"Sequential"
-			opExportControl 	"Public"
-			uid        	0))
-		module     	"Component View::javax.swing.JFrame"
-		quidu      	"539594AF0010"
 		language   	"Java")
 	    (object Class_Category "Institutions"
 		quid       	"539432A003AE"
@@ -46935,11 +46177,7 @@
 		    (object Dependency_Relationship
 			quid       	"539432CE03B1"
 			supplier   	"Logical View::Institutions::GUS_Form"
-			quidu      	"538322A1034E")
-		    (object Dependency_Relationship
-			quid       	"53959490008F"
-			supplier   	"Logical View::Institutions::Legal_Acts"
-			quidu      	"537CBC3A0210"))
+			quidu      	"538322A1034E"))
 		exportControl 	"Public"
 		logical_models 	(list unit_reference_list
 		    (object Class "US_Form"
@@ -47064,23 +46302,6 @@
 				uid        	0))
 			module     	"Component View::Institutions::GUS_Form"
 			quidu      	"53943954038C"
-			language   	"Java")
-		    (object Class "Legal_Acts"
-			attributes 	(list Attribute_Set)
-			quid       	"537CBC3A0210"
-			operations 	(list Operations
-			    (object Operation "Legal_Acts"
-				attributes 	(list Attribute_Set
-				    (object Attribute
-					tool       	"Java"
-					name       	"GenerateFullyQualifiedThrows"
-					value      	""))
-				quid       	"53943C9F022B"
-				concurrency 	"Sequential"
-				opExportControl 	"Public"
-				uid        	0))
-			module     	"Component View::Institutions::Legal_Acts"
-			quidu      	"539439550061"
 			language   	"Java"))
 		logical_presentations 	(list unit_reference_list))
 	    (object Class_Category "Features"
@@ -47219,14 +46440,7 @@
 				concurrency 	"Sequential"
 				opExportControl 	"Public"
 				uid        	0))
-			class_attributes 	(list class_attribute_list
-			    (object ClassAttribute "varargs[]"
-				quid       	"539593FE0373"
-				type       	"Logical View::java::lang::String")
-			    (object ClassAttribute "typeofreport"
-				quid       	"5395940F0109"
-				type       	"int"))
-			module     	"Component View::Databases::Reports"
+			module     	"Component View::Reports"
 			quidu      	"539439550069"
 			language   	"Java")
 		    (object Class "Database"
@@ -47471,11 +46685,6 @@
 				opExportControl 	"Public"
 				uid        	0)
 			    (object Operation "selectDepartment"
-				attributes 	(list Attribute_Set
-				    (object Attribute
-					tool       	"Java"
-					name       	"GenerateFullyQualifiedThrows"
-					value      	""))
 				quid       	"53943E6F023E"
 				parameters 	(list Parameters
 				    (object Parameter "int departmentID"
@@ -47486,7 +46695,7 @@
 			class_attributes 	(list class_attribute_list
 			    (object ClassAttribute "ErrorLogErrorlog"
 				quid       	"539434E7008C"))
-			module     	"Component View::Databases::Database"
+			module     	"Component View::Database"
 			quidu      	"5394395403DB"
 			language   	"Java")
 		    (object Class "ErrorLog"
@@ -47561,7 +46770,7 @@
 		zoom       	100
 		max_height 	28350
 		max_width  	21600
-		origin_x   	0
+		origin_x   	1076
 		origin_y   	0
 		items      	(list diagram_item_list
 		    (object ClassView "Class" "Logical View::Databases::Database" @2276
@@ -47618,7 +46827,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(3495, 1440)
+			location   	(3240, 951)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -47631,7 +46840,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2277
-			    location   	(3273, 1336)
+			    location   	(3018, 847)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	444
@@ -47643,7 +46852,7 @@
 			quidu      	"537DF8AE00E7"
 			compartment 	(object Compartment
 			    Parent_View 	@2277
-			    location   	(3273, 1441)
+			    location   	(3018, 952)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -47658,7 +46867,7 @@
 			    fill_color 	13434879
 			    anchor     	2
 			    nlines     	2
-			    max_width  	446
+			    max_width  	441
 			    justify    	1)
 			width      	462
 			height     	232
@@ -47668,7 +46877,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(552, 1392)
+			location   	(543, 606)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -47681,10 +46890,10 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2278
-			    location   	(21, 11)
+			    location   	(9, 275)
 			    fill_color 	13434879
 			    nlines     	1
-			    max_width  	1062
+			    max_width  	1068
 			    justify    	0
 			    label      	"Form")
 			icon_style 	"Icon"
@@ -47693,7 +46902,7 @@
 			quidu      	"5370ADCA00CF"
 			compartment 	(object Compartment
 			    Parent_View 	@2278
-			    location   	(21, 72)
+			    location   	(9, 336)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -47707,18 +46916,18 @@
 			    icon_style 	"Icon"
 			    fill_color 	13434879
 			    anchor     	2
-			    nlines     	54
-			    max_width  	1059
+			    nlines     	12
+			    max_width  	1066
 			    justify    	1)
-			width      	1080
-			height     	2786
+			width      	1086
+			height     	686
 			annotation 	8
 			autoResize 	TRUE)
 		    (object ClassView "Class" "Logical View::Forms_Generating" @2279
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(1584, 1695)
+			location   	(1173, 1395)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -47731,10 +46940,10 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2279
-			    location   	(1288, 1464)
+			    location   	(965, 1314)
 			    fill_color 	13434879
 			    nlines     	1
-			    max_width  	592
+			    max_width  	416
 			    justify    	0
 			    label      	"Forms_Generating")
 			icon_style 	"Icon"
@@ -47743,7 +46952,7 @@
 			quidu      	"537DF6250166"
 			compartment 	(object Compartment
 			    Parent_View 	@2279
-			    location   	(1288, 1525)
+			    location   	(965, 1375)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -47757,11 +46966,11 @@
 			    icon_style 	"Icon"
 			    fill_color 	13434879
 			    anchor     	2
-			    nlines     	8
-			    max_width  	588
+			    nlines     	2
+			    max_width  	413
 			    justify    	1)
-			width      	610
-			height     	486
+			width      	434
+			height     	186
 			annotation 	8
 			autoResize 	TRUE)
 		    (object ClassView "Class" "Logical View::Databases::ErrorLog" @2280
@@ -47818,7 +47027,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(1752, 1035)
+			location   	(1668, 1035)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -47831,7 +47040,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2281
-			    location   	(1616, 931)
+			    location   	(1532, 931)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	272
@@ -47843,7 +47052,7 @@
 			quidu      	"538322710184"
 			compartment 	(object Compartment
 			    Parent_View 	@2281
-			    location   	(1616, 1036)
+			    location   	(1532, 1036)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -47858,7 +47067,7 @@
 			    fill_color 	13434879
 			    anchor     	2
 			    nlines     	2
-			    max_width  	278
+			    max_width  	269
 			    justify    	1)
 			width      	290
 			height     	232
@@ -47908,7 +47117,7 @@
 			    fill_color 	13434879
 			    anchor     	2
 			    nlines     	2
-			    max_width  	256
+			    max_width  	247
 			    justify    	1)
 			width      	268
 			height     	232
@@ -47918,7 +47127,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(2406, 837)
+			location   	(2328, 402)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -47931,10 +47140,10 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2283
-			    location   	(2011, 683)
+			    location   	(2205, 298)
 			    fill_color 	13434879
 			    nlines     	1
-			    max_width  	790
+			    max_width  	246
 			    justify    	0
 			    label      	"Reports")
 			icon_style 	"Icon"
@@ -47943,7 +47152,7 @@
 			quidu      	"537CC4C0023D"
 			compartment 	(object Compartment
 			    Parent_View 	@2283
-			    location   	(2011, 788)
+			    location   	(2205, 403)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -47957,14 +47166,14 @@
 			    icon_style 	"Icon"
 			    fill_color 	13434879
 			    anchor     	2
-			    nlines     	4
-			    max_width  	803
+			    nlines     	2
+			    max_width  	219
 			    justify    	1)
-			width      	808
-			height     	332
+			width      	264
+			height     	232
 			annotation 	8
 			autoResize 	TRUE)
-		    (object ClassView "Class" "Logical View::Institutions::Legal_Acts" @2284
+		    (object ClassView "Class" "Logical View::Legal_Acts" @2284
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
@@ -47981,7 +47190,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2284
-			    location   	(1790, 37)
+			    location   	(1790, 60)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	284
@@ -47993,7 +47202,7 @@
 			quidu      	"537CBC3A0210"
 			compartment 	(object Compartment
 			    Parent_View 	@2284
-			    location   	(1790, 142)
+			    location   	(1790, 121)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -48011,14 +47220,14 @@
 			    max_width  	281
 			    justify    	1)
 			width      	302
-			height     	232
+			height     	186
 			annotation 	8
 			autoResize 	TRUE)
 		    (object ClassView "Class" "Logical View::Institutions::GUS_Form" @2285
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(2235, 1506)
+			location   	(2163, 1035)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -48031,7 +47240,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2285
-			    location   	(2095, 1402)
+			    location   	(2023, 931)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	280
@@ -48043,7 +47252,7 @@
 			quidu      	"538322A1034E"
 			compartment 	(object Compartment
 			    Parent_View 	@2285
-			    location   	(2095, 1507)
+			    location   	(2023, 1036)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -48058,7 +47267,7 @@
 			    fill_color 	13434879
 			    anchor     	2
 			    nlines     	2
-			    max_width  	287
+			    max_width  	278
 			    justify    	1)
 			width      	298
 			height     	232
@@ -48107,8 +47316,8 @@
 			client     	@2286
 			supplier   	@2281
 			vertices   	(list Points
-			    (1760, 789)
-			    (1755, 918))
+			    (1737, 789)
+			    (1701, 918))
 			line_style 	0)
 		    (object DependencyView "" @2289
 			stereotype 	TRUE
@@ -48117,14 +47326,14 @@
 			client     	@2286
 			supplier   	@2285
 			vertices   	(list Points
-			    (1816, 789)
-			    (2166, 1389))
+			    (1870, 789)
+			    (2024, 918))
 			line_style 	0)
 		    (object ClassView "Class" "Logical View::Features::Personnel_Features" @2290
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(2763, 1656)
+			location   	(2601, 1026)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -48137,7 +47346,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2290
-			    location   	(2541, 1552)
+			    location   	(2379, 922)
 			    fill_color 	13434879
 			    nlines     	1
 			    max_width  	444
@@ -48149,7 +47358,7 @@
 			quidu      	"53943513029B"
 			compartment 	(object Compartment
 			    Parent_View 	@2290
-			    location   	(2541, 1657)
+			    location   	(2379, 1027)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -48164,14 +47373,14 @@
 			    fill_color 	13434879
 			    anchor     	2
 			    nlines     	2
-			    max_width  	446
+			    max_width  	441
 			    justify    	1)
 			width      	462
 			height     	232
 			annotation 	8
 			autoResize 	TRUE)
 		    (object CategoryView "Logical View::Features" @2291
-			location   	(2865, 1254)
+			location   	(2481, 729)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -48184,7 +47393,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2291
-			    location   	(2692, 1170)
+			    location   	(2308, 645)
 			    fill_color 	13434879
 			    nlines     	2
 			    max_width  	346
@@ -48203,8 +47412,8 @@
 			client     	@2291
 			supplier   	@2290
 			vertices   	(list Points
-			    (2841, 1344)
-			    (2791, 1539))
+			    (2517, 819)
+			    (2554, 909))
 			line_style 	0)
 		    (object DependencyView "" @2293
 			stereotype 	TRUE
@@ -48213,8 +47422,8 @@
 			client     	@2291
 			supplier   	@2277
 			vertices   	(list Points
-			    (3044, 1305)
-			    (3263, 1371))
+			    (2660, 780)
+			    (3008, 882))
 			line_style 	0)
 		    (object InheritView "" @2294
 			stereotype 	TRUE
@@ -48223,14 +47432,14 @@
 			client     	@2290
 			supplier   	@2277
 			vertices   	(list Points
-			    (2994, 1586)
-			    (3263, 1507))
+			    (2832, 997)
+			    (3008, 976))
 			line_style 	0)
 		    (object ClassView "Class" "Logical View::javax.swing.JFrame" @2295
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(1428, 168)
+			location   	(234, 165)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -48243,37 +47452,18 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@2295
-			    location   	(1211, 87)
+			    location   	(36, 114)
 			    fill_color 	13434879
 			    nlines     	1
-			    max_width  	434
+			    max_width  	396
 			    justify    	0
 			    label      	"javax.swing.JFrame")
 			icon_style 	"Icon"
 			line_color 	3342489
 			fill_color 	13434879
 			quidu      	"539437B2011F"
-			compartment 	(object Compartment
-			    Parent_View 	@2295
-			    location   	(1211, 148)
-			    font       	(object Font
-				size       	10
-				face       	"Arial"
-				charSet    	238
-				bold       	FALSE
-				italics    	FALSE
-				underline  	FALSE
-				strike     	FALSE
-				color      	0
-				default_color 	TRUE)
-			    icon_style 	"Icon"
-			    fill_color 	16777215
-			    anchor     	2
-			    nlines     	2
-			    max_width  	431
-			    justify    	1)
-			width      	452
-			height     	186
+			width      	414
+			height     	126
 			annotation 	8
 			autoResize 	TRUE)
 		    (object InheritView "" @2296
@@ -48283,8 +47473,8 @@
 			client     	@2278
 			supplier   	@2295
 			vertices   	(list Points
-			    (1092, 636)
-			    (1359, 261))
+			    (543, 606)
+			    (234, 165))
 			line_style 	0)
 		    (object InheritView "" @2297
 			stereotype 	TRUE
@@ -48293,8 +47483,8 @@
 			client     	@2282
 			supplier   	@2279
 			vertices   	(list Points
-			    (1295, 1130)
-			    (1459, 1451))
+			    (1216, 1130)
+			    (1187, 1301))
 			line_style 	0)
 		    (object InheritView "" @2298
 			stereotype 	TRUE
@@ -48303,8 +47493,8 @@
 			client     	@2281
 			supplier   	@2279
 			vertices   	(list Points
-			    (1721, 1151)
-			    (1645, 1451))
+			    (1522, 1139)
+			    (1300, 1301))
 			line_style 	0)
 		    (object InheritView "" @2299
 			stereotype 	TRUE
@@ -48313,8 +47503,8 @@
 			client     	@2285
 			supplier   	@2279
 			vertices   	(list Points
-			    (2085, 1548)
-			    (1889, 1604))
+			    (2013, 1088)
+			    (1390, 1315))
 			line_style 	0)
 		    (object CategoryView "Logical View::Databases" @2300
 			location   	(2751, 462)
@@ -48342,17 +47532,7 @@
 			quidu      	"539440F90193"
 			width      	300
 			height     	180)
-		    (object InheritView "" @2301
-			stereotype 	TRUE
-			line_color 	3342489
-			quidu      	"5395938D012D"
-			client     	@2279
-			supplier   	@2295
-			vertices   	(list Points
-			    (1558, 1451)
-			    (1436, 261))
-			line_style 	0)
-		    (object DependencyView "" @2302
+		    (object DependencyView "" @2301
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"5394410B016F"
@@ -48362,7 +47542,7 @@
 			    (2751, 462)
 			    (3246, 381))
 			line_style 	0)
-		    (object DependencyView "" @2303
+		    (object DependencyView "" @2302
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"5394411A031E"
@@ -48372,39 +47552,44 @@
 			    (2751, 462)
 			    (2457, 141))
 			line_style 	0)
-		    (object DependencyView "" @2304
+		    (object DependencyView "" @2303
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"539441230111"
 			client     	@2300
 			supplier   	@2283
 			vertices   	(list Points
-			    (2666, 552)
-			    (2557, 670))
-			line_style 	0)
-		    (object DependencyView "" @2305
-			stereotype 	TRUE
-			line_color 	3342489
-			quidu      	"53959490008F"
-			client     	@2286
-			supplier   	@2284
-			vertices   	(list Points
-			    (1807, 554)
-			    (1896, 257))
+			    (2600, 440)
+			    (2460, 420))
 			line_style 	0)))))
     root_subsystem 	(object SubSystem "Component View"
 	quid       	"535A96E701CC"
 	physical_models 	(list unit_reference_list
+	    (object module "Database" "NotAModuleType" "NotAModulePart"
+		attributes 	(list Attribute_Set
+		    (object Attribute
+			tool       	"Java"
+			name       	"FileName"
+			value      	"J:\\Desktop\\DINO\\Database.java")
+		    (object Attribute
+			tool       	"Java"
+			name       	"RootPath"
+			value      	"J:\\Desktop\\DINO"))
+		quid       	"5394395403DB"
+		stereotype 	""
+		language   	"Java"
+		class      	"Logical View::Databases::Database"
+		quidu      	"5370A2200009")
 	    (object module "Form" "NotAModuleType" "NotAModulePart"
 		attributes 	(list Attribute_Set
 		    (object Attribute
 			tool       	"Java"
 			name       	"FileName"
-			value      	"J:\\Desktop\\gencode\\Form.java")
+			value      	"J:\\Desktop\\DINO\\Form.java")
 		    (object Attribute
 			tool       	"Java"
 			name       	"RootPath"
-			value      	"J:\\Desktop\\gencode"))
+			value      	"J:\\Desktop\\DINO"))
 		quid       	"53943955004D"
 		stereotype 	""
 		language   	"Java"
@@ -48415,31 +47600,46 @@
 		    (object Attribute
 			tool       	"Java"
 			name       	"FileName"
-			value      	"J:\\Desktop\\gencode\\Forms_Generating.java")
+			value      	"J:\\Desktop\\DINO\\Forms_Generating.java")
 		    (object Attribute
 			tool       	"Java"
 			name       	"RootPath"
-			value      	"J:\\Desktop\\gencode"))
+			value      	"J:\\Desktop\\DINO"))
 		quid       	"539439550055"
 		stereotype 	""
 		language   	"Java"
 		class      	"Logical View::Forms_Generating"
 		quidu      	"537DF6250166")
-	    (object module "javax.swing.JFrame" "NotAModuleType" "NotAModulePart"
+	    (object module "Legal_Acts" "NotAModuleType" "NotAModulePart"
 		attributes 	(list Attribute_Set
 		    (object Attribute
 			tool       	"Java"
 			name       	"FileName"
-			value      	"J:\\Desktop\\gencode\\javax.swing.JFrame.java")
+			value      	"J:\\Desktop\\DINO\\Legal_Acts.java")
 		    (object Attribute
 			tool       	"Java"
 			name       	"RootPath"
-			value      	"J:\\Desktop\\gencode"))
-		quid       	"539594AF0010"
+			value      	"J:\\Desktop\\DINO"))
+		quid       	"539439550061"
 		stereotype 	""
 		language   	"Java"
-		class      	"Logical View::javax.swing.JFrame"
-		quidu      	"539437B2011F")
+		class      	"Logical View::Legal_Acts"
+		quidu      	"537CBC3A0210")
+	    (object module "Reports" "NotAModuleType" "NotAModulePart"
+		attributes 	(list Attribute_Set
+		    (object Attribute
+			tool       	"Java"
+			name       	"FileName"
+			value      	"J:\\Desktop\\DINO\\Reports.java")
+		    (object Attribute
+			tool       	"Java"
+			name       	"RootPath"
+			value      	"J:\\Desktop\\DINO"))
+		quid       	"539439550069"
+		stereotype 	""
+		language   	"Java"
+		class      	"Logical View::Databases::Reports"
+		quidu      	"537CC4C0023D")
 	    (object SubSystem "Features"
 		quid       	"539439540344"
 		physical_models 	(list unit_reference_list
@@ -48448,7 +47648,7 @@
 			    (object Attribute
 				tool       	"Java"
 				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Features\\Employee_Features.java")
+				value      	"J:\\Desktop\\DINO\\Features\\Employee_Features.java")
 			    (object Attribute
 				tool       	"Java"
 				name       	"RootPath"
@@ -48463,7 +47663,7 @@
 			    (object Attribute
 				tool       	"Java"
 				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Features\\Personnel_Features.java")
+				value      	"J:\\Desktop\\DINO\\Features\\Personnel_Features.java")
 			    (object Attribute
 				tool       	"Java"
 				name       	"RootPath"
@@ -48482,7 +47682,7 @@
 			    (object Attribute
 				tool       	"Java"
 				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Institutions\\GUS_Form.java")
+				value      	"J:\\Desktop\\DINO\\Institutions\\GUS_Form.java")
 			    (object Attribute
 				tool       	"Java"
 				name       	"RootPath"
@@ -48497,7 +47697,7 @@
 			    (object Attribute
 				tool       	"Java"
 				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Institutions\\US_Form.java")
+				value      	"J:\\Desktop\\DINO\\Institutions\\US_Form.java")
 			    (object Attribute
 				tool       	"Java"
 				name       	"RootPath"
@@ -48512,7 +47712,7 @@
 			    (object Attribute
 				tool       	"Java"
 				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Institutions\\ZUS_Form.java")
+				value      	"J:\\Desktop\\DINO\\Institutions\\ZUS_Form.java")
 			    (object Attribute
 				tool       	"Java"
 				name       	"RootPath"
@@ -48521,56 +47721,7 @@
 			stereotype 	""
 			language   	"Java"
 			class      	"Logical View::Institutions::ZUS_Form"
-			quidu      	"538322710184")
-		    (object module "Legal_Acts" "NotAModuleType" "NotAModulePart"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Legal_Acts.java")
-			    (object Attribute
-				tool       	"Java"
-				name       	"RootPath"
-				value      	"J:\\Desktop\\gencode"))
-			quid       	"539439550061"
-			stereotype 	""
-			language   	"Java"
-			class      	"Logical View::Institutions::Legal_Acts"
-			quidu      	"537CBC3A0210"))
-		physical_presentations 	(list unit_reference_list))
-	    (object SubSystem "Databases"
-		quid       	"5395953C0315"
-		physical_models 	(list unit_reference_list
-		    (object module "Database" "NotAModuleType" "NotAModulePart"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Database.java")
-			    (object Attribute
-				tool       	"Java"
-				name       	"RootPath"
-				value      	"J:\\Desktop\\gencode"))
-			quid       	"5394395403DB"
-			stereotype 	""
-			language   	"Java"
-			class      	"Logical View::Databases::Database"
-			quidu      	"5370A2200009")
-		    (object module "Reports" "NotAModuleType" "NotAModulePart"
-			attributes 	(list Attribute_Set
-			    (object Attribute
-				tool       	"Java"
-				name       	"FileName"
-				value      	"J:\\Desktop\\gencode\\Reports.java")
-			    (object Attribute
-				tool       	"Java"
-				name       	"RootPath"
-				value      	"J:\\Desktop\\gencode"))
-			quid       	"539439550069"
-			stereotype 	""
-			language   	"Java"
-			class      	"Logical View::Databases::Reports"
-			quidu      	"537CC4C0023D"))
+			quidu      	"538322710184"))
 		physical_presentations 	(list unit_reference_list)))
 	physical_presentations 	(list unit_reference_list
 	    (object Module_Diagram "Main"
@@ -52227,7 +51378,7 @@
 		    (object Attribute
 			tool       	"Java"
 			name       	"ClassPath"
-			value      	"C:\\software\\jdk\\jre\\lib\\rt.jar;C:\\software\\jdk\\lib\\dt.jar;C:\\software\\jdk\\lib\\tools.jar;J:\\Desktop\\gencode")
+			value      	"C:\\software\\jdk\\jre\\lib\\rt.jar;C:\\software\\jdk\\lib\\dt.jar;C:\\software\\jdk\\lib\\tools.jar;J:\\Desktop\\DINO;C:\\Software\\jdk")
 		    (object Attribute
 			tool       	"Java"
 			name       	"ReferenceClasspath"
@@ -52411,7 +51562,7 @@
 		    (object Attribute
 			tool       	"Java"
 			name       	"FundamentalType"
-			value      	"boolean;char;byte;short;int;long;float;double;Boolean;Byte;Character;Double;Float;Integer;Long;Object;Short;String;StringBuffer;Void;java.math.BigDecimal;java.math.BigInteger;java.sql.Date;java.sql.Time;java.sql.Timestamp;java.util.AbstractCollection;java.util.AbstractList;java.util.AbstractMap;java.util.AbstractSequentialList;java.util.AbstractSet;java.util.ArrayList;java.util.Arrays;java.util.BitSet;java.util.Calendar;java.util.Collections;java.util.Date;java.util.Date;java.util.Dictionary;java.util.EventObject;java.util.GregorianCalendar;java.util.HashMap;java.util.HashSet;java.util.Hashtable;java.util.LinkedList;java.util.ListResourceBundle;java.util.Locale;java.util.Observable;java.util.Properties;java.util.PropertyPermission;java.util.PropertyResourceBundle;java.util.Random;java.util.ResourceBundle;java.util.SimpleTimeZone;java.util.Stack;java.util.StringTokenizer;java.util.Timer;java.util.TimerTask;java.util.TimeZone;java.util.TreeMap;java.util.TreeSet;java.util.Vector;java.util.WeakHashMap;int;float;boolean;char;double;short;long;byte;Boolean;Byte;Character;Double;Float;Integer;Long;Object;Short;String;StringBuffer;Void;java.math.BigDecimal;java.math.BigInteger;java.sql.Date;java.sql.Time;java.sql.Timestamp;java.util.AbstractCollection;java.util.AbstractList;java.util.AbstractMap;java.util.AbstractSequentialList;java.util.AbstractSet;java.util.ArrayList;java.util.Arrays;java.util.BitSet;java.util.Calendar;java.util.Collections;java.util.Date;java.util.Dictionary;java.util.EventObject;java.util.GregorianCalendar;java.util.HashMap;java.util.HashSet;java.util.Hashtable;java.util.LinkedList;java.util.ListResourceBundle;java.util.Locale;java.util.Observable;java.util.Properties;java.util.PropertyPermission;java.util.PropertyResourceBundle;java.util.Random;java.util.ResourceBundle;java.util.ArrayList;java.util.SimpleTimeZone;java.util.Stack;java.util.StringTokenizer;java.util.Timer;java.util.TimerTask;java.util.TimerTask;java.util.TimeZone;java.util.TreeMap;java.util.TreeSet;java.util.Vector;java.util.WeakHashMap;Features.Employee_Features;Institutions.GUS_Form;Institutions.US_Form;Institutions.ZUS_Form;Form;Forms_Generating;Databases.Database;Institutions.Legal_Acts;Databases.Reports")))
+			value      	"boolean;char;byte;short;int;long;float;double;Boolean;Byte;Character;Double;Float;Integer;Long;Object;Short;String;StringBuffer;Void;java.math.BigDecimal;java.math.BigInteger;java.sql.Date;java.sql.Time;java.sql.Timestamp;java.util.AbstractCollection;java.util.AbstractList;java.util.AbstractMap;java.util.AbstractSequentialList;java.util.AbstractSet;java.util.ArrayList;java.util.Arrays;java.util.BitSet;java.util.Calendar;java.util.Collections;java.util.Date;java.util.Date;java.util.Dictionary;java.util.EventObject;java.util.GregorianCalendar;java.util.HashMap;java.util.HashSet;java.util.Hashtable;java.util.LinkedList;java.util.ListResourceBundle;java.util.Locale;java.util.Observable;java.util.Properties;java.util.PropertyPermission;java.util.PropertyResourceBundle;java.util.Random;java.util.ResourceBundle;java.util.SimpleTimeZone;java.util.Stack;java.util.StringTokenizer;java.util.Timer;java.util.TimerTask;java.util.TimeZone;java.util.TreeMap;java.util.TreeSet;java.util.Vector;java.util.WeakHashMap;int;float;boolean;char;double;short;long;byte;Boolean;Byte;Character;Double;Float;Integer;Long;Object;Short;String;StringBuffer;Void;java.math.BigDecimal;java.math.BigInteger;java.sql.Date;java.sql.Time;java.sql.Timestamp;java.util.AbstractCollection;java.util.AbstractList;java.util.AbstractMap;java.util.AbstractSequentialList;java.util.AbstractSet;java.util.ArrayList;java.util.Arrays;java.util.BitSet;java.util.Calendar;java.util.Collections;java.util.Date;java.util.Dictionary;java.util.EventObject;java.util.GregorianCalendar;java.util.HashMap;java.util.HashSet;java.util.Hashtable;java.util.LinkedList;java.util.ListResourceBundle;java.util.Locale;java.util.Observable;java.util.Properties;java.util.PropertyPermission;java.util.PropertyResourceBundle;java.util.Random;java.util.ResourceBundle;java.util.ArrayList;java.util.SimpleTimeZone;java.util.Stack;java.util.StringTokenizer;java.util.Timer;java.util.TimerTask;java.util.TimerTask;java.util.TimeZone;java.util.TreeMap;java.util.TreeSet;java.util.Vector;java.util.WeakHashMap;Features.Employee_Features;Institutions.GUS_Form;Institutions.US_Form;Institutions.ZUS_Form;Form;Forms_Generating;Legal_Acts;Reports;Database")))
 	    (object Attribute
 		tool       	"Java"
 		name       	"default__Class"
